@@ -1,5 +1,15 @@
+/*
+Name			        :Anushka Sharma
+Section			        :B
+Class Roll Number	    :19
+University Roll Number	:2023270
+Ques2.Using the switch statement, write a menu-driven program to calculate the maturity amount of a bank deposit. 
+The user is given the following options: 
+(i) Term Deposit 
+(ii) Recurring Deposit 
+ */
 import java.util.Scanner;
-public class task1 {
+public class deposite {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
